@@ -1,5 +1,5 @@
 applications:
-- name: eagerraman
+- name: eager-raman
   memory: 256M
   host: eager-raman
   buildpack: staticfile_buildpack
